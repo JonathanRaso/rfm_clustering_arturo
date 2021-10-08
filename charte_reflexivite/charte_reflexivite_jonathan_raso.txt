@@ -1,0 +1,71 @@
+Charte de réflexivité:
+
+
+Jour 2 (05/10):
+1) Qu'est-ce que j'ai fait hier ?
+
+- J'ai commencé à mettre en place le projet sur lequel je vais travailler pendant cette semaine. 
+- J'ai découvert l'analyse RFM en lisant les articles proposés par le formateur.
+- J'ai commencé l'analyse RFM sur python.
+- J'ai refait le calcul de la récence, de la fréquence et du montant.
+
+2) Qu'est-ce que j'ai pu apprendre ?
+
+- J'ai pu revoir comment calculer la récence, la fréquence et le montant
+
+3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser l'analyse RFM dans mes prochains projets.
+
+-----------------------------------------------------
+
+Jour 3 (06/10):
+1) Qu'est-ce que j'ai fait hier ?
+
+- J'ai découvert l'analyse de cohortes (utilité, mise en place sur python)
+- J'ai préparé la présentation à faire devant Laurent.
+
+2) Qu'est-ce que j'ai pu apprendre ?
+
+- J'ai appris à faire une analyse par cohorte
+- J'ai appris à analyser les résultats de l'analyse de cohortes.
+
+3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser les cohortes dans les projets qui pourront en bénéficier.
+
+-----------------------------------------------------
+
+Jour 4 (07/10):
+1) Qu'est-ce que j'ai fait hier ?
+
+- 
+- 
+
+2) Qu'est-ce que j'ai pu apprendre ?
+
+- 
+- 
+
+3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- 
+
+-----------------------------------------------------
+
+Jour 4 (08/10):
+1) Qu'est-ce que j'ai fait hier ?
+
+- J'ai commencé la veille sur l'inférence statistique, il faut que je lise les articles conseillés par Arturo avant de commencer le notebook sur l'inférence.
+- J'ai commencé le notebook_EDA pour mettre au propre ce que j'avais fait sur le notebook de test. 
+
+2) Qu'est-ce que j'ai pu apprendre ?
+
+- J'ai appris ce qu'était l'inférence statistique (les bases en tout cas).
+- J'ai appris qu'il fallait faire une copie du dataframe initial pour travailler sans altérer ce dernier.
+
+3) Qu'est-ce que je vais réutiliser dans le futur?
+
+- Je vais réutiliser la copie du dataframe. 
+
+-----------------------------------------------------
